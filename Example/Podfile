@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Komodo_Example' do
+  pod 'Komodo', :path => '../'
+
+  target 'Komodo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
