@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Komodo'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'Custom scroll indicators.'
   s.swift_version    = '4.0'
 # This description is used to generate tags and improve search results.
