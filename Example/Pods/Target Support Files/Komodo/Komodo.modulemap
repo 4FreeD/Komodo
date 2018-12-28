@@ -1,0 +1,6 @@
+framework module Komodo {
+  umbrella header "Komodo-umbrella.h"
+
+  export *
+  module * { export * }
+}

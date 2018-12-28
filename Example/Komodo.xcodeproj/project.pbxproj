@@ -31,7 +31,7 @@
 		229474571E84B76EC0ADC961 /* Pods-Komodo_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Komodo_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-Komodo_Example/Pods-Komodo_Example.release.xcconfig"; sourceTree = "<group>"; };
 		2CAE15355646AADEEC558C39 /* Pods-Komodo_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Komodo_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Komodo_Tests/Pods-Komodo_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		4CC478222754622C04A3858D /* Pods-Komodo_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Komodo_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Komodo_Example/Pods-Komodo_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		5AC64113F3F5F4F2A1ACD398 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		5AC64113F3F5F4F2A1ACD398 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* Komodo_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Komodo_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -44,8 +44,8 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		7F1C2BE4C01767E876B620C8 /* Pods_Komodo_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Komodo_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EC1107D52C2051071570FAB /* Pods-Komodo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Komodo_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Komodo_Tests/Pods-Komodo_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		91DBD2AD338AA4C8116A6696 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		CA30A9ACBFAC0FB01E9925F8 /* Komodo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = Komodo.podspec; path = ../Komodo.podspec; sourceTree = "<group>"; };
+		91DBD2AD338AA4C8116A6696 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		CA30A9ACBFAC0FB01E9925F8 /* Komodo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Komodo.podspec; path = ../Komodo.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CD2795BF09FAB6531BD492AE /* Pods_Komodo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Komodo_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 

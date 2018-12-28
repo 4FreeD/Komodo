@@ -1,0 +1,16 @@
+PODS:
+  - Komodo (0.1.0)
+
+DEPENDENCIES:
+  - Komodo (from `../`)
+
+EXTERNAL SOURCES:
+  Komodo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Komodo: f540773f046e7e7ced621c7724fb6d0f2271a155
+
+PODFILE CHECKSUM: 9979740f7229f9ad6f94db7d5b7fc01269898226
+
+COCOAPODS: 1.5.3

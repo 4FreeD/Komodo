@@ -1,0 +1,22 @@
+{
+  "name": "Komodo",
+  "version": "0.1.0",
+  "summary": "A short description of Komodo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/4FreeD/Komodo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "4FreeD": "bohma@statoilfuelretail.com"
+  },
+  "source": {
+    "git": "https://github.com/4FreeD/Komodo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Komodo/Classes/**/*"
+}
